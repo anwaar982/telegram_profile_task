@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">telegram_task</string>
+        <string name="tme">t.me/theChance101</string>
+        <string name="info">Info</string>
+        <string name="notification">Notification</string>
+        <string name="tabHomeLabel">Home</string>
+        <string name="tabProfileLabel">Profile</string>
+        <string name="tabSettingsLabel">Settings</string>
+     <string name="channelState">public channel</string>
+        <string name="on">On</string>
+        <string name="members">Members</string>
+        <string name="channel_name">Expecto Patronum</string>
+        <string name="subscribersCount">818</string>
+        <string name="username">Aseel Raafat</string>
+        <string name="isOnline">Online</string>
+        <string name="account">Account</string>
+        <string name="_20_1165783938">+20 1165783938</string>
+        <string name="media">media</string>
+        <string name="barCode">bar code</string>
+        <string name="searchIcon">search icon</string>
+        <string name="menu">menu</string>
+        <string name="tapToChangePhoneNO">Tap to change phone number</string>
+        <string name="usernameText">Username</string>
+        <string name="hashtag">#</string>
+        <string name="bio">Bio</string>
+        <string name="abc123">\@abc123</string>
+        <string name="administrator">administrator</string>
+        <string name="backButton">back button</string>
+        <string name="subscribers">subscribers</string>
+        <string name="file">files</string>
+        <string name="links">shared links</string>
+        <string name="inviteLink">Link</string>
+        <string name="qrCode">QR Code</string>
+        <string name="numberOfAdmins">3</string>
+    <string name="channel_state">public channel</string>
+    <string name="qr_code">qr_code</string>
+</resources>
